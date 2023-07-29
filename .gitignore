@@ -19,3 +19,4 @@ env/
 build/
 develop-eggs/
 dist/
+downloads/
