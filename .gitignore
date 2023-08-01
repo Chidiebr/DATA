@@ -21,3 +21,4 @@ develop-eggs/
 dist/
 downloads/
 eggs/
+lib/
