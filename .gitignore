@@ -82,3 +82,5 @@ target/
 
 # celery beat schedule file
 celerybeat-schedule
+
+# SageMath parsed files
