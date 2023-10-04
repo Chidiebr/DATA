@@ -87,3 +87,4 @@ celerybeat-schedule
 *.sage.py
 
 # dotenv
+.env
