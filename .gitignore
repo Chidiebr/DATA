@@ -99,3 +99,4 @@ ENV/
 .spyproject
 
 # Rope project settings
+.ropeproject
