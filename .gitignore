@@ -108,3 +108,4 @@ ENV/
 .mypy_cache/
 
 # notification logs
+.git-notifier*
