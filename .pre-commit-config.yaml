@@ -10,3 +10,5 @@ repos:
   - id: check-added-large-files
     args: ['--maxkb=200']
   - id: check-yaml
+
+# Automatically sort imports
