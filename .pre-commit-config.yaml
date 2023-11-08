@@ -13,3 +13,4 @@ repos:
 
 # Automatically sort imports
 - repo: https://github.com/PyCQA/isort
+  rev: 5.12.0
