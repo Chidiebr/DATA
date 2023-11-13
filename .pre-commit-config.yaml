@@ -18,3 +18,4 @@ repos:
   - id: isort
     args: [
            '-a', 'from __future__ import annotations',        # 3.7-3.11
+           '--rm', 'from __future__ import absolute_import',  # -3.0
