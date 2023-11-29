@@ -34,3 +34,5 @@ repos:
   hooks:
   - id: black
     args: [--safe, --quiet]
+
+# Linting
