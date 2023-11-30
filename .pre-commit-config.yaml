@@ -36,3 +36,4 @@ repos:
     args: [--safe, --quiet]
 
 # Linting
+- repo: https://github.com/PyCQA/flake8
